@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // CreateLearning inserts a new learning and its concept associations.

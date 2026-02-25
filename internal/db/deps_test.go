@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 func createTestItem(t *testing.T, db *DB, title string) *model.Item {

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 const (

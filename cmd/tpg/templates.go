@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/taxilian/tpg/internal/db"
-	"github.com/taxilian/tpg/internal/model"
-	"github.com/taxilian/tpg/internal/templates"
+	"github.com/cpuchip/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/templates"
 	"gopkg.in/yaml.v3"
 )
 

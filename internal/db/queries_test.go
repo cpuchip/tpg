@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 func createTestItemWithProject(t *testing.T, db *DB, title, project string, status model.Status, priority int) *model.Item {

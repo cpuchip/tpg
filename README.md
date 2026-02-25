@@ -21,13 +21,13 @@ AI coding agents are stateless. Every new session starts from scratch. When work
 Requires Go 1.24+.
 
 ```bash
-go install github.com/taxilian/tpg/cmd/tpg@v0.16.1
+go install github.com/cpuchip/tpg/cmd/tpg@v0.16.1
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/taxilian/tpg.git
+git clone https://github.com/cpuchip/tpg.git
 cd tpg
 go install ./cmd/tpg
 ```

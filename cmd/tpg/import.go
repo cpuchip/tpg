@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 var importCmd = &cobra.Command{

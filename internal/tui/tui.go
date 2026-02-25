@@ -13,9 +13,9 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 	"github.com/charmbracelet/x/ansi"
-	"github.com/taxilian/tpg/internal/db"
-	"github.com/taxilian/tpg/internal/model"
-	"github.com/taxilian/tpg/internal/templates"
+	"github.com/cpuchip/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/templates"
 )
 
 // ViewMode represents the current view state.

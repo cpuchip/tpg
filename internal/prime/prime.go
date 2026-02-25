@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/taxilian/tpg/internal/db"
-	"github.com/taxilian/tpg/internal/templates"
+	"github.com/cpuchip/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/templates"
 )
 
 const PrimeFileName = "PRIME.md"

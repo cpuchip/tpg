@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // AddDep adds a dependency between items.

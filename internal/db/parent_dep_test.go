@@ -3,7 +3,7 @@ package db
 import (
 	"testing"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // TestParentDependencyInheritance verifies whether child tasks inherit parent dependencies

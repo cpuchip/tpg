@@ -4,7 +4,7 @@ package format
 import (
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // StaleThreshold is the duration after which an in_progress task is considered stale.

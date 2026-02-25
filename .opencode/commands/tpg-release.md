@@ -31,7 +31,7 @@ Create a new release for tpg. This will:
 4. Update README.md with the new version:
    ```bash
    # Update the go install command on line 14
-   sed -i '' "s|go install github.com/taxilian/tpg/cmd/tpg@latest|go install github.com/taxilian/tpg/cmd/tpg@vX.Y.Z|" README.md
+   sed -i '' "s|go install github.com/cpuchip/tpg/cmd/tpg@latest|go install github.com/cpuchip/tpg/cmd/tpg@vX.Y.Z|" README.md
    git add README.md
    git commit -m "docs: update README install command for vX.Y.Z"
    ```

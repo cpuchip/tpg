@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 const maxIDRetries = 10

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/taxilian/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/db"
 )
 
 func TestRenderPrime_DefaultTemplate(t *testing.T) {

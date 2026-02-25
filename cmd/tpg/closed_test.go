@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/taxilian/tpg/internal/db"
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // setupClosedTestDB creates a test database for closed command tests.

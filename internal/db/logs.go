@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // AddLog adds a log entry to an item.

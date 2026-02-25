@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // Event type constants for history tracking

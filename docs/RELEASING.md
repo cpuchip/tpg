@@ -28,7 +28,7 @@ Update the `go install` command in README.md to show the new version:
 
 ```bash
 # Edit README.md line 14
-go install github.com/taxilian/tpg/cmd/tpg@vX.Y.Z
+go install github.com/cpuchip/tpg/cmd/tpg@vX.Y.Z
 ```
 
 Commit this change:
@@ -86,8 +86,8 @@ In OpenCode, you can use the `/release` command to automate this process:
 Users can install any released version:
 
 ```bash
-go install github.com/taxilian/tpg/cmd/tpg@v0.2.1
-go install github.com/taxilian/tpg/cmd/tpg@latest
+go install github.com/cpuchip/tpg/cmd/tpg@v0.2.1
+go install github.com/cpuchip/tpg/cmd/tpg@latest
 ```
 
 ## Troubleshooting

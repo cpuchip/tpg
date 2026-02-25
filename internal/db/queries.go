@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 const itemSelectColumns = "id, project, type, title, description, status, priority, parent_id, agent_id, agent_last_active, template_id, step_index, variables, template_hash, results, worktree_branch, worktree_base, shared_context, closing_instructions, closed_at, created_at, updated_at"

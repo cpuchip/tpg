@@ -17,14 +17,14 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
-	"github.com/taxilian/tpg/internal/db"
-	"github.com/taxilian/tpg/internal/format"
-	"github.com/taxilian/tpg/internal/model"
-	"github.com/taxilian/tpg/internal/plugin"
-	"github.com/taxilian/tpg/internal/prime"
-	"github.com/taxilian/tpg/internal/templates"
-	"github.com/taxilian/tpg/internal/tui"
-	"github.com/taxilian/tpg/internal/worktree"
+	"github.com/cpuchip/tpg/internal/db"
+	"github.com/cpuchip/tpg/internal/format"
+	"github.com/cpuchip/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/plugin"
+	"github.com/cpuchip/tpg/internal/prime"
+	"github.com/cpuchip/tpg/internal/templates"
+	"github.com/cpuchip/tpg/internal/tui"
+	"github.com/cpuchip/tpg/internal/worktree"
 	"gopkg.in/yaml.v3"
 )
 

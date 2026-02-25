@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/taxilian/tpg/internal/model"
+	"github.com/cpuchip/tpg/internal/model"
 )
 
 // CreateItem inserts a new item into the database.
